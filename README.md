@@ -4,5 +4,5 @@
 
 Для локального просмотра откройте `index.html` в браузере. Сборка и установка зависимостей не нужны.
 
-[Макет в Figma](https://clck.ru/3MwWDw)
+https://github.com/AhriEva/slozhno-sosredotochitsya-ad
 
